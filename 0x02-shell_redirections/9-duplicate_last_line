@@ -1,0 +1,2 @@
+#!/bin/bash
+exho -en "" | tail --lines=1 iacta >> iacta
